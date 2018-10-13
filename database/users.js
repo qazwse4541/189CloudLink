@@ -1,5 +1,5 @@
 module.exports = {
     items: [
-        {username: 'xxx', password: 'XXXxxxxXXXX'}
+        {username: 'kimi', password: ''}
     ]
 };
