@@ -1,6 +1,6 @@
 {
-    "appKey": "",
-    "appSecret": "",
+    "appKey": "384683700000276011",
+    "appSecret": "8a5ab3d2d3a60e9517a932c9ab09d15d",
     "callbackUrl": "http://localhost:3000/admin/authCallback",
     "accessToken": "",
     "linkCache": true,
