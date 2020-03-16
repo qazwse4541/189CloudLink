@@ -1,7 +1,7 @@
 {
     "appKey": "600102343",
     "appSecret": "93c6a3491a5e1d93af0e44b470798148",
-    "callbackUrl": "http://localhost:3000/admin/authCallback",
+    "callbackUrl": "http://您的域名/admin/authCallback",
     "accessToken": "",
     "linkCache": true,
     "linkCacheTime": 3600,
